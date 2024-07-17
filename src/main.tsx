@@ -9,7 +9,7 @@ import './index.css'
 
 WebApp.ready();
 
-const manifestUrl = 'https://sashajozwiak.github.io/***/tonconnect-manifest.json';
+const manifestUrl = 'https://sashajozwiak.github.io/tmplt/tonconnect-manifest.json';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
